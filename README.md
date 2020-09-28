@@ -13,7 +13,7 @@ If you use these resources, please cite (and read!) our paper: [Directions in Ab
 ### Arabic
 __1. Are They our Brothers? Analysis and Detection of Religious Hate Speech in the Arabic Twittersphere__
 * Link to publication: [https://ieeexplore.ieee.org/document/8508247](https://ieeexplore.ieee.org/document/8508247)
-* Link to data: https://github.com/nuhaalbadi/Arabic_hatespeech(https://github.com/nuhaalbadi/Arabic_hatespeech)
+* Link to data: https://github.com/nuhaalbadi/Arabic_hatespeech
 * Task description: Binary (Hate, Not) 
 * Details of task: Religious subcategories 
 * Size of dataset: 6,136 
